@@ -19,4 +19,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 
 
-
+# Screenshots
+[Screenshot](./screenshots/finished1.png)
+[Screenshot](./screenshots/finished2.png)
+[Badge](./screenshots/finished3.png)
